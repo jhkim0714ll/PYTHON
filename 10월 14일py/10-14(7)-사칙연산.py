@@ -1,0 +1,10 @@
+a = int(input('a='))
+b = int(input('b='))
+c = str(input('c='))
+
+print('-' * 10)
+print('a+b=',a+b)
+print('a-b=',a-b)
+print('a*b=',a*b)
+print('a/b=',a/b)
+print('-' * 10)
